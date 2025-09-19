@@ -1,4 +1,4 @@
-# 🐳 Hello-Docker
+# 🐳 Hello Docker
 
 ## 📚 Learn Docker  
 [![Docker](https://img.shields.io/badge/Docker-Free%20Course-blue?logo=docker&logoColor=white)](https://www.classcentral.com/classroom/freecodecamp-docker-60392)
